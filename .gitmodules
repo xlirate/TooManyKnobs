@@ -1,0 +1,24 @@
+[submodule "libs/MX_Alps_Hybrid"]
+	path = libs/MX_Alps_Hybrid
+	url = git@github.com:ai03-2725/MX_Alps_Hybrid.git
+[submodule "libs/keebs.pretty"]
+	path = libs/keebs.pretty
+	url = git@github.com:egladman/keebs.pretty.git
+[submodule "libs/keyboard_parts.pretty"]
+	path = libs/keyboard_parts.pretty
+	url = git@github.com:colemarkham/keyboard_parts.pretty.git
+[submodule "libs/kicad_lib_tmk"]
+	path = libs/kicad_lib_tmk
+	url = git@github.com:tmk/kicad_lib_tmk.git
+[submodule "libs/random-keyboard-parts.pretty"]
+	path = libs/random-keyboard-parts.pretty
+	url = git@github.com:ai03-2725/random-keyboard-parts.pretty.git
+[submodule "libs/WS2812B.pretty"]
+	path = libs/WS2812B.pretty
+	url = git@github.com:ai03-2725/WS2812B.pretty.git
+[submodule "libs/Keebio-Parts.pretty"]
+	path = libs/Keebio-Parts.pretty
+	url = git@github.com:keebio/Keebio-Parts.pretty.git
+[submodule "libs/Type-C.pretty"]
+	path = libs/Type-C.pretty
+	url = git@github.com:ai03-2725/Type-C.pretty.git
