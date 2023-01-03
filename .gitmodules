@@ -22,3 +22,9 @@
 [submodule "libs/Type-C.pretty"]
 	path = libs/Type-C.pretty
 	url = git@github.com:ai03-2725/Type-C.pretty.git
+[submodule "libs/ProMicroKiCad"]
+	path = libs/ProMicroKiCad
+	url = git@github.com:Biacco42/ProMicroKiCad.git
+[submodule "libs/kbd"]
+	path = libs/kbd
+	url = git@github.com:foostan/kbd.git
